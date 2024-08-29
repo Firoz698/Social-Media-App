@@ -1,0 +1,17 @@
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\MediaRepository\bin\Debug\net6.0\MediaRepository.deps.json
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\MediaRepository\bin\Debug\net6.0\MediaRepository.dll
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\MediaRepository\bin\Debug\net6.0\MediaRepository.pdb
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\MediaRepository\bin\Debug\net6.0\MainDatabase.dll
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\MediaRepository\bin\Debug\net6.0\Model.dll
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\MediaRepository\bin\Debug\net6.0\MainDatabase.pdb
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\MediaRepository\bin\Debug\net6.0\Model.pdb
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\MediaRepository\obj\Debug\net6.0\MediaRepository.csproj.AssemblyReference.cache
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\MediaRepository\obj\Debug\net6.0\MediaRepository.GeneratedMSBuildEditorConfig.editorconfig
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\MediaRepository\obj\Debug\net6.0\MediaRepository.AssemblyInfoInputs.cache
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\MediaRepository\obj\Debug\net6.0\MediaRepository.AssemblyInfo.cs
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\MediaRepository\obj\Debug\net6.0\MediaRepository.csproj.CoreCompileInputs.cache
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\MediaRepository\obj\Debug\net6.0\MediaRepository.csproj.CopyComplete
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\MediaRepository\obj\Debug\net6.0\MediaRepository.dll
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\MediaRepository\obj\Debug\net6.0\refint\MediaRepository.dll
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\MediaRepository\obj\Debug\net6.0\MediaRepository.pdb
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\MediaRepository\obj\Debug\net6.0\ref\MediaRepository.dll

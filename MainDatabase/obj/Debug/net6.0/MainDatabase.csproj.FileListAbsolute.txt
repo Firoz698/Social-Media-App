@@ -1,0 +1,15 @@
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\MainDatabase\bin\Debug\net6.0\MainDatabase.deps.json
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\MainDatabase\bin\Debug\net6.0\MainDatabase.dll
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\MainDatabase\bin\Debug\net6.0\MainDatabase.pdb
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\MainDatabase\bin\Debug\net6.0\Model.dll
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\MainDatabase\bin\Debug\net6.0\Model.pdb
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\MainDatabase\obj\Debug\net6.0\MainDatabase.csproj.AssemblyReference.cache
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\MainDatabase\obj\Debug\net6.0\MainDatabase.GeneratedMSBuildEditorConfig.editorconfig
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\MainDatabase\obj\Debug\net6.0\MainDatabase.AssemblyInfoInputs.cache
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\MainDatabase\obj\Debug\net6.0\MainDatabase.AssemblyInfo.cs
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\MainDatabase\obj\Debug\net6.0\MainDatabase.csproj.CoreCompileInputs.cache
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\MainDatabase\obj\Debug\net6.0\MainDatabase.csproj.CopyComplete
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\MainDatabase\obj\Debug\net6.0\MainDatabase.dll
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\MainDatabase\obj\Debug\net6.0\refint\MainDatabase.dll
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\MainDatabase\obj\Debug\net6.0\MainDatabase.pdb
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\MainDatabase\obj\Debug\net6.0\ref\MainDatabase.dll

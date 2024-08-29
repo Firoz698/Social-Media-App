@@ -1,0 +1,11 @@
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\Model\bin\Debug\net6.0\Model.deps.json
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\Model\bin\Debug\net6.0\Model.dll
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\Model\bin\Debug\net6.0\Model.pdb
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\Model\obj\Debug\net6.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\Model\obj\Debug\net6.0\Model.AssemblyInfoInputs.cache
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\Model\obj\Debug\net6.0\Model.AssemblyInfo.cs
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\Model\obj\Debug\net6.0\Model.csproj.CoreCompileInputs.cache
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\Model\obj\Debug\net6.0\Model.dll
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\Model\obj\Debug\net6.0\refint\Model.dll
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\Model\obj\Debug\net6.0\Model.pdb
+G:\Practice Work Area\Angular\Communication Media\Communication Back End\Model\obj\Debug\net6.0\ref\Model.dll
